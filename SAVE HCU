@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Join the SAVE HCU movement to protect students' rights against the Congress ruling party's policies.">
+    <meta name="keywords" content="SAVE HCU, Congress, students' rights, education, protests, HCU movement, awareness">
+    <meta name="author" content="Save HCU Movement">
+    <title>Save HCU Movement - Protect Students' Rights</title>
+
+    <!-- Open Graph and Twitter Card Meta Tags for SEO -->
+    <meta property="og:title" content="Save HCU Movement - Protect Students' Rights">
+    <meta property="og:description" content="Support the Save HCU movement to protect the interests of students and the community from harmful policies of the Congress party.">
+    <meta property="og:image" content="image-link.jpg"> <!-- Replace with actual image link -->
+    <meta property="og:url" content="https://your-github-link.github.io"> <!-- Replace with GitHub link -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Save HCU Movement">
+    <meta name="twitter:description" content="Join the movement to protect HCU from harmful policies.">
+    <meta name="twitter:image" content="image-link.jpg"> <!-- Replace with actual image link -->
+
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Save HCU</a></li>
+                <li><a href="#campaign">Campaign</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="logo">
+            <h1>Save HCU Movement</h1>
+        </div>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to the Save HCU Campaign</h2>
+        <p>We are a group of concerned students and individuals fighting against the harmful policies imposed by the Congress ruling party on HCU. Join us in protecting the rights of students and the academic community.</p>
+        <p><a href="https://your-github-link.github.io/donate" class="cta-button">Support the Cause</a></p>
+    </section>
+
+    <section id="about">
+        <h2>About Save HCU</h2>
+        <p>The Save HCU movement was created to protect the integrity of education at HCU, which is being compromised by political actions that hinder student rights. We aim to raise awareness and build solidarity.</p>
+    </section>
+
+    <section id="campaign">
+        <h2>Our Campaign</h2>
+        <p>We are actively involved in organizing protests, online campaigns, and discussions to bring attention to the issues faced by students. You can help by signing petitions and participating in events.</p>
+        <a href="https://your-github-link.github.io/campaign" class="cta-button">Join the Campaign</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or want to get involved, please reach out to us.</p>
+        <form action="mailto:info@savehcu.org" method="get">
+            <input type="text" name="name" placeholder="Your Name" required>
+            <input type="email" name="email" placeholder="Your Email" required>
+            <textarea name="message" placeholder="Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Save HCU Movement. All Rights Reserved.</p>
+    </footer>
+</body>
+
+</html>
